@@ -27,7 +27,12 @@ int main()
 	}
 	
 	else {
-		printf("%d is the biggest of the given numbers\n",b);
+		if(b>c) {
+			printf("%d is the biggest of the given numbers\n",b);
+		}
+		else {
+			printf("%d is the biggest of the given numbers\n",c);
+		}
 	}
 
     return 0;
