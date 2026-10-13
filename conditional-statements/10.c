@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-// Leap year check
+// 10.Leap year check
 
 #include <stdio.h>
 

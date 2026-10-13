@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-// Positive, Negative or Zero
+// 3.Positive, Negative or Zero
 
 #include <stdio.h>
 

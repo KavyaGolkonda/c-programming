@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-// Digit Check
+// 9.Digit Check
 
 #include <stdio.h>
 

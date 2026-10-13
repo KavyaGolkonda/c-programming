@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-// Magnitude of a Number
+// 4.Magnitude of a Number
 
 #include <stdio.h>
 

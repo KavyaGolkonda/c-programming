@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-// Biggest of Three numbers
+// 6.Biggest of Three numbers
 
 #include <stdio.h>
 

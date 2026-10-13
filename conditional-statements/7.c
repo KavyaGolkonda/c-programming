@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-//Simple Calculator
+//7.Simple Calculator
 
 #include <stdio.h>
 

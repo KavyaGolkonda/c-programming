@@ -7,7 +7,7 @@
 *
 *************************************************/
 
-// Alphabet Check
+// 8.Alphabet Check
 
 #include <stdio.h>
 
